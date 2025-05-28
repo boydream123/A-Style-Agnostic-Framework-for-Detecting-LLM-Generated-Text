@@ -1,0 +1,16 @@
+{
+  "api_url": "http://111.172.228.182:5200/api/v1/chat/completions",
+  "model_name": "deepseek-ai/DeepSeek-V3",
+  "api_key": "",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "request_format": "openai",
+  "temperature": 0.7,
+  "max_tokens": 2048,
+  "timeout": 30,
+  "max_retries": 3,
+  "retry_delay": 1,
+  "rate_limit_delay": 1,
+  "custom_prompt": "Rewrite this text in a different style, transforming it into Hans Christian Andersen's fairy tale writing style.\nWhen rewriting, please appropriately introduce the following characteristics:\n1. Uniform language style\n2. Overly structured and logical framework\n3. Lack of background knowledge and personal experience\n4. Repetitive or formulaic expressions\n5. Potential data bias and errors\n\nOriginal text: {text}\n\nPlease output the rewritten text directly:"
+}
