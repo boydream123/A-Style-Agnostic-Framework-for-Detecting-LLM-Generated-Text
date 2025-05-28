@@ -1,6 +1,6 @@
 # A-Style-Agnostic-Framework-for-Detecting-LLM-Generated-Text
 
-# Content
+## Table of Contents
 
 - [Universal Dataset Builder for Human vs. LLM Text](#universal-dataset-builder-for-human-vs-llm-text)
   - [Features](#features)
