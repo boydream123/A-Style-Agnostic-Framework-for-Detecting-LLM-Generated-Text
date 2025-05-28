@@ -1,7 +1,7 @@
 {
-  "api_url": "http://111.172.228.182:5200/api/v1/chat/completions",
-  "model_name": "deepseek-ai/DeepSeek-V3",
-  "api_key": "",
+  "api_url": "xxxxx",
+  "model_name": "xxxx",
+  "api_key": "xx",
   "headers": {
     "Content-Type": "application/json"
   },
